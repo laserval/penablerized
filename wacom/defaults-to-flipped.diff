@@ -1,0 +1,270 @@
+--- /Users/olof.nilsson/Documents/Preferences.wacomprefs/com.wacom.wacomtablet.prefs 
++++ /Users/olof.nilsson/Documents/Preferences2.wacomprefs/com.wacom.wacomtablet.prefs 
+@@ -66,8 +66,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">0</X>
+-                          <Y type="integer">24892</Y>
++                          <X type="integer">38100</X>
++                          <Y type="integer">0</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </OverlapArea>
+@@ -79,8 +79,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">0</X>
+-                          <Y type="integer">24892</Y>
++                          <X type="integer">38100</X>
++                          <Y type="integer">0</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </TabletInputArea>
+@@ -131,8 +131,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">8940</X>
+-                          <Y type="integer">0</Y>
++                          <X type="integer">0</X>
++                          <Y type="integer">2860</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </OverlapArea>
+@@ -144,8 +144,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">8940</X>
+-                          <Y type="integer">0</Y>
++                          <X type="integer">0</X>
++                          <Y type="integer">2860</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </TabletInputArea>
+@@ -300,8 +300,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">0</X>
+-                          <Y type="integer">24892</Y>
++                          <X type="integer">38100</X>
++                          <Y type="integer">0</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </OverlapArea>
+@@ -313,8 +313,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">0</X>
+-                          <Y type="integer">24892</Y>
++                          <X type="integer">38100</X>
++                          <Y type="integer">0</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </TabletInputArea>
+@@ -365,8 +365,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">8940</X>
+-                          <Y type="integer">0</Y>
++                          <X type="integer">0</X>
++                          <Y type="integer">2860</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </OverlapArea>
+@@ -378,8 +378,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">8940</X>
+-                          <Y type="integer">0</Y>
++                          <X type="integer">0</X>
++                          <Y type="integer">2860</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </TabletInputArea>
+@@ -534,8 +534,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">0</X>
+-                          <Y type="integer">24892</Y>
++                          <X type="integer">38100</X>
++                          <Y type="integer">0</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </OverlapArea>
+@@ -547,8 +547,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">0</X>
+-                          <Y type="integer">24892</Y>
++                          <X type="integer">38100</X>
++                          <Y type="integer">0</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </TabletInputArea>
+@@ -599,8 +599,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">8940</X>
+-                          <Y type="integer">0</Y>
++                          <X type="integer">0</X>
++                          <Y type="integer">2860</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </OverlapArea>
+@@ -612,8 +612,8 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">8940</X>
+-                          <Y type="integer">0</Y>
++                          <X type="integer">0</X>
++                          <Y type="integer">2860</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </TabletInputArea>
+@@ -763,13 +763,13 @@
+                       <Options type="integer">32784</Options>
+                       <OverlapArea type="map">
+                         <Extent type="map">
+-                          <X type="integer">7620</X>
+-                          <Y type="integer">5588</Y>
+-                          <Z type="integer">2047</Z>
+-                        </Extent>
+-                        <Origin type="map">
+-                          <X type="integer">0</X>
+-                          <Y type="integer">24892</Y>
++                          <X type="integer">7625</X>
++                          <Y type="integer">5594</Y>
++                          <Z type="integer">2047</Z>
++                        </Extent>
++                        <Origin type="map">
++                          <X type="integer">38100</X>
++                          <Y type="integer">0</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </OverlapArea>
+@@ -781,15 +781,15 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">0</X>
+-                          <Y type="integer">24892</Y>
++                          <X type="integer">38100</X>
++                          <Y type="integer">0</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </TabletInputArea>
+                       <TabletInsetOn type="bool">false</TabletInsetOn>
+                     </InputArea>
+                     <ScreenArea type="map">
+-                      <AreaType type="integer">0</AreaType>
++                      <AreaType type="integer">1</AreaType>
+                       <Ballistic type="integer">1</Ballistic>
+                       <CalibrationMonitor type="integer">0</CalibrationMonitor>
+                       <CursorMode type="bool">false</CursorMode>
+@@ -813,7 +813,7 @@
+                       </ScreenOutputArea>
+                       <SensitivityX type="integer">65536</SensitivityX>
+                       <SensitivityY type="integer">65536</SensitivityY>
+-                      <WhichMonitor type="integer">0</WhichMonitor>
++                      <WhichMonitor type="integer">1</WhichMonitor>
+                     </ScreenArea>
+                   </ArrayElement>
+                   <ArrayElement type="map">
+@@ -828,13 +828,13 @@
+                       <Options type="integer">32784</Options>
+                       <OverlapArea type="map">
+                         <Extent type="map">
+-                          <X type="integer">36780</X>
+-                          <Y type="integer">27620</Y>
+-                          <Z type="integer">2047</Z>
+-                        </Extent>
+-                        <Origin type="map">
+-                          <X type="integer">8940</X>
+-                          <Y type="integer">0</Y>
++                          <X type="integer">36808</X>
++                          <Y type="integer">27654</Y>
++                          <Z type="integer">2047</Z>
++                        </Extent>
++                        <Origin type="map">
++                          <X type="integer">0</X>
++                          <Y type="integer">2860</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </OverlapArea>
+@@ -846,15 +846,15 @@
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+-                          <X type="integer">8940</X>
+-                          <Y type="integer">0</Y>
++                          <X type="integer">0</X>
++                          <Y type="integer">2860</Y>
+                           <Z type="integer">-1023</Z>
+                         </Origin>
+                       </TabletInputArea>
+                       <TabletInsetOn type="bool">false</TabletInsetOn>
+                     </InputArea>
+                     <ScreenArea type="map">
+-                      <AreaType type="integer">0</AreaType>
++                      <AreaType type="integer">1</AreaType>
+                       <Ballistic type="integer">1</Ballistic>
+                       <CalibrationMonitor type="integer">0</CalibrationMonitor>
+                       <CursorMode type="bool">false</CursorMode>
+@@ -878,7 +878,7 @@
+                       </ScreenOutputArea>
+                       <SensitivityX type="integer">65536</SensitivityX>
+                       <SensitivityY type="integer">65536</SensitivityY>
+-                      <WhichMonitor type="integer">0</WhichMonitor>
++                      <WhichMonitor type="integer">1</WhichMonitor>
+                     </ScreenArea>
+                   </ArrayElement>
+                   <ArrayElement type="map">
+@@ -893,8 +893,8 @@
+                       <Options type="integer">32784</Options>
+                       <OverlapArea type="map">
+                         <Extent type="map">
+-                          <X type="integer">45720</X>
+-                          <Y type="integer">30480</Y>
++                          <X type="integer">45755</X>
++                          <Y type="integer">30518</Y>
+                           <Z type="integer">2047</Z>
+                         </Extent>
+                         <Origin type="map">
+@@ -919,7 +919,7 @@
+                       <TabletInsetOn type="bool">false</TabletInsetOn>
+                     </InputArea>
+                     <ScreenArea type="map">
+-                      <AreaType type="integer">0</AreaType>
++                      <AreaType type="integer">1</AreaType>
+                       <Ballistic type="integer">1</Ballistic>
+                       <CalibrationMonitor type="integer">0</CalibrationMonitor>
+                       <CursorMode type="bool">false</CursorMode>
+@@ -943,7 +943,7 @@
+                       </ScreenOutputArea>
+                       <SensitivityX type="integer">65536</SensitivityX>
+                       <SensitivityY type="integer">65536</SensitivityY>
+-                      <WhichMonitor type="integer">0</WhichMonitor>
++                      <WhichMonitor type="integer">1</WhichMonitor>
+                     </ScreenArea>
+                   </ArrayElement>
+                 </InputScreenAreaArray>
+@@ -985,7 +985,7 @@
+             <UserID type="integer">0</UserID>
+           </ArrayElement>
+         </MappingGroupArray>
+-        <Orientation type="integer">1</Orientation>
++        <Orientation type="integer">3</Orientation>
+         <PenScroller type="map">
+           <PenScrollerScale type="double">1</PenScrollerScale>
+         </PenScroller>
